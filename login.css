@@ -1,0 +1,64 @@
+.login{
+    width: 410px;
+    height: auto;
+    margin: auto;
+    background-color: rgb(201, 200, 200);
+}
+.login1
+{   
+    width: 400px;
+    height: auto;
+    background-color:#ffff;
+    margin:auto;
+    border:none;
+    border-radius: 20px;
+}
+.login1 h3{
+    margin-top: 0px;
+    font-size: 50px;
+    background-color: rgb(238, 39, 39);
+    border-radius: 20px 20px 0px 0px;
+    padding: 10px 10px;
+    color:azure;
+}
+.login2{
+    padding: 5px 10px;
+    width: 300px;
+    margin: auto;
+}
+input[type=text]{
+    width: 300px;
+    padding:6px 0px;
+    background-color: rgb(225, 235, 235);
+    border-radius: 3px;
+    border:none;
+    color:rgb(131, 136, 136);
+}
+input[type=password]{
+    color:rgb(131, 136, 136);
+    padding:6px 0px;
+    border-radius: 3px;
+    background-color: rgb(225, 235, 235);
+    border:none;
+    width: 300px;
+}
+  .button {
+    padding: 20px 0px;
+    text-align: center;
+}
+.button1 {
+    margin-top: 20px;
+    background-color: rgb(14, 187, 72);
+    border: none;
+    font-weight: bold;
+    color:aliceblue;
+    border-radius: 5px;
+    padding: 6px 20px;
+    width: 120px;
+    text-align: center;
+    transition: 1s all ease;
+}
+.button1:hover {
+  background-color: aquamarine;
+  color: rgb(14, 122, 86);
+}
